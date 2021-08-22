@@ -1,0 +1,20 @@
+.field {
+    display: flex;
+}
+
+.cell {
+    width: 111px;
+    height: 111px;
+    background-color: #BCBBB6;
+    /* background-image: url('../img/hole.png'); */
+    background-repeat: no-repeat;
+    border-radius: 11px;
+    margin: 3px;
+}
+
+.goblin {
+    width: 111px;
+    height: 111px;
+    background-image: url(./2dbd01ce16c0fa83cb67e20c73dedb66.png);
+    background-repeat: no-repeat;
+}
